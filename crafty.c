@@ -1,6 +1,6 @@
 int entry(int argc, char **argv) {
 
-	window.title = fixed_string("JAKES GAME");
+	window.title = fixed_string("JAKES GAME DAWGGG");
 	window.width = 1280;
 	window.height = 720;
 	window.x = 200;
